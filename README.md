@@ -1,4 +1,4 @@
-# SQL-Portfolio
+# SQL-Projects
 ___
 
 ## About this Repository
